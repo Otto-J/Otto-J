@@ -2,5 +2,6 @@
 ### <div align="center">我是Otto</div>
 
 - 🌐 [个人网站 ijust.cc](https://ijust.cc)
--  📽️ [B站](https://space.bilibili.com/5157699) 
+- 😋 [B站](https://space.bilibili.com/5157699)
+- 🖼 [掘金](https://juejin.cn/user/2612095355987351)
 
